@@ -33,10 +33,8 @@ Details in [DEVSKILLS.md](DEVSKILLS.md)
 
 # Portfolio
 
-## As web developer
-### 1. [hackey.me](https://hackey.me) - personal website
+## My projects
+- [hackey.me](https://hackey.me) - personal website
 
-## Contributions
-
-
-More projects on https://github.com/hackey9
+## Open source contributions
+- [dotnet/iot](https://github.com/dotnet/iot/pulls?q=author%3Ahackey9)
