@@ -11,7 +11,7 @@
 **🕑 Age**: 24  
 **🤪 Language**: russian  
 **🌏 Location**: Krasnoyarsk, Russia  
-**💻 Looking for a job**: ✅  
+**💻 Looking for a job**: ⛔  
 
 **😻 Loves**: people, IT and pets (*except code bugs*)  
 </td>
